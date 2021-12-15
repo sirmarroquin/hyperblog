@@ -1,5 +1,4 @@
 body{
-	color: green;
 	text-align: center;
 	font-family: "Verdana";
 }
@@ -13,7 +12,7 @@ body{
 }
 
 #cabecera{
-	background-color: blue;
+	background-color: green;
 	padding: 20px 2%;
 	font-size:  1.2em;
 }
