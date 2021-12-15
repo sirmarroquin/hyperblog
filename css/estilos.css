@@ -5,7 +5,7 @@ body{
 }
 
 #container{
-	background-color: Pink;
+	background-color: Gold;
 	color: #fff;
 	margin-left: 15%;
 	width: 70%;
@@ -13,7 +13,7 @@ body{
 }
 
 #cabecera{
-	background-color: HotPink;
+	background-color: PaleGoldenrod;
 	padding: 20px 2%;
 	font-size:  1.2em;
 }
