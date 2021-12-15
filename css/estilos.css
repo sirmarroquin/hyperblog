@@ -1,5 +1,13 @@
 body{
 	color: red;
 	text-align: center;
-	font-family: "Arial";
+	font-family: "Verdana";
+}
+
+#container{
+	background-color: red;
+	color: #fff;
+	margin-left: 15%;
+	padding: 20px 2%;
+	width: 70%;
 }
