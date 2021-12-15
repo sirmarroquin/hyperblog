@@ -4,7 +4,7 @@ body{
 }
 
 #container{
-	background-color: red;
+	background-color: LightSalmon;
 	color: #fff;
 	margin-left: 15%;
 	width: 70%;
@@ -12,7 +12,7 @@ body{
 }
 
 #cabecera{
-	background-color: blue;
+	background-color: Salmon;
 	padding: 20px 2%;
 	font-size:  1.2em;
 }
