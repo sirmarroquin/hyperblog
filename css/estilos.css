@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+	font-family: "Verdana";
+}
+
+#container{
+	background-color: Lavender;
+	color: #fff;
+	margin-left: 15%;
+	width: 70%;
+	padding: 0 0 20px 0;
+}
+
+#cabecera{
+	background-color: Plum;
+	padding: 20px 2%;
+	font-size:  1.2em;
+}
