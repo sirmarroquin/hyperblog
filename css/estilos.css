@@ -4,15 +4,16 @@ body{
 }
 
 #container{
-	background-color: LightSalmon;
-	color: #fff;
+	background-color: LightCyan;
+	color: MediumTurquoise;
 	margin-left: 15%;
 	width: 70%;
 	padding: 0 0 20px 0;
 }
 
 #cabecera{
-	background-color: Tomato;
+	background-color: Aqua;
+	color: White;
 	padding: 20px 2%;
-	font-size:  1.2em;
+	font-size:  1.4em;
 }
